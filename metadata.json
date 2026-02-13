@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Magic Video Stitcher123",
+  "description": "A professional tool for batch stitching three-segment videos with random combinations of openers and transitions, and a fixed outro.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
